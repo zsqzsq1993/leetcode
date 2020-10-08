@@ -1,0 +1,20 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./test"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "Dolly Zhang",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.5.2",
+    "jest": "^26.5.2"
+  }
+}

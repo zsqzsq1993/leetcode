@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f13f525-b8a7-47c6-98a8-ddbb1cf6087d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/array/telephone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/string/telephone.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/array/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/array/flowers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/array/grayCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/array/card.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/array/flowers.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/array/grayCode.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602124785096</updated>
-      <workItem from="1602124788901" duration="5871000" />
+      <workItem from="1602124788901" duration="11966000" />
     </task>
     <servers />
   </component>

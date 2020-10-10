@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f13f525-b8a7-47c6-98a8-ddbb1cf6087d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/sort/bubbling.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/sort/maximumGap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/sort/maximumK.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/sort/oddAndEven.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/sort/selecting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/sort/bubbling.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/sort/maximumGap.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/sort/maximumK.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/sort/oddAndEven.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/sort/selecting.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/sort/missingFirst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sort/missingFirst.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +46,7 @@
       <updated>1602124785096</updated>
       <workItem from="1602124788901" duration="13154000" />
       <workItem from="1602294891472" duration="3198000" />
-      <workItem from="1602312018468" duration="4100000" />
+      <workItem from="1602312018468" duration="9067000" />
     </task>
     <servers />
   </component>
@@ -66,5 +58,16 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="466" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1602252063835" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/sort/missingFirst.test.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

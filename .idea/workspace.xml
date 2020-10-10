@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f13f525-b8a7-47c6-98a8-ddbb1cf6087d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/reg/customerReg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/reg/repeatSubString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/reg/customerReg.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/reg/repeatSubString.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/sort/bubbling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/sort/maximumGap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/sort/maximumK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/sort/oddAndEven.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/sort/selecting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sort/bubbling.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sort/maximumGap.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sort/maximumK.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sort/oddAndEven.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sort/selecting.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602124785096</updated>
       <workItem from="1602124788901" duration="13154000" />
-      <workItem from="1602294891472" duration="2994000" />
+      <workItem from="1602294891472" duration="3198000" />
+      <workItem from="1602312018468" duration="4100000" />
     </task>
     <servers />
   </component>

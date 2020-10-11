@@ -1,25 +1,19 @@
 // 41
 export default (nums) => {
-    if (!nums.length) return 1
-
-    if (nums.length === 1) return nums[0] === 1 ? 2 : 1
-
     for(let i = 0; i < nums.length; i++) {
-        if (i !== nums.length - 1) {
-            let index = i
-            let min = nums[i]
+        let index = i
+        let min = nums[i]
 
-            for (let j = i + 1; j < nums.length; j++) {
-                if (nums[j] < min) {
-                    min = nums[j]
-                    index = j
-                }
+        for (let j = i + 1; j < nums.length; j++) {
+            if (nums[j] < min) {
+                min = nums[j]
+                index = j
             }
+        }
 
-            if (index !== i) {
-                nums[index] = nums[i]
-                nums[i] = min
-            }
+        if (index !== i) {
+            nums[index] = nums[i]
+            nums[i] = min
         }
 
         if (nums[i] < 1) {

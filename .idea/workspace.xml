@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f13f525-b8a7-47c6-98a8-ddbb1cf6087d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/sort/quickSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sort/quickSort.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/sort/missingFirst.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/sort/missingFirst.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <workItem from="1602124788901" duration="13154000" />
       <workItem from="1602294891472" duration="3198000" />
       <workItem from="1602312018468" duration="9753000" />
-      <workItem from="1602382854486" duration="249000" />
+      <workItem from="1602382854486" duration="2603000" />
     </task>
     <servers />
   </component>

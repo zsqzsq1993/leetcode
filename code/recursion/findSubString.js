@@ -1,3 +1,4 @@
+// 30
 export default (s, words) => {
     const result = []
 
@@ -13,17 +14,18 @@ export default (s, words) => {
                 rankAndCombine(rankedCopy, restCopy)
             })
         } else {
-            const index = new RegExp(ranked.join('')).exec(s).index
+            let match
 
-            console.log(index)
+            const reg = new RegExp(ranked.join(''), 'g')
 
-            if (index > -1) {
-                result.push(index)
+            while ((match = reg.exec(s))) {
+                result.push(match.index)
+                reg.lastIndex--
             }
         }
     }
 
     rankAndCombine([], words)
 
-    return result
+    return [...new Set(result)]
 }

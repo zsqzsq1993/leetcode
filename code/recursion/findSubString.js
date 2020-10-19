@@ -2,12 +2,16 @@
 export default (s, words) => {
     const result = []
 
+    let rankedCopy = []
+
+    let restCopy = []
+
     const rankAndCombine = (ranked, rest) => {
         if (rest.length) {
             rest.forEach((item, idx) => {
-                const rankedCopy = ranked.slice()
+                rankedCopy = ranked.slice()
 
-                const restCopy = rest.slice()
+                restCopy = rest.slice()
 
                 rankedCopy.push(restCopy.splice(idx, 1)[0])
 

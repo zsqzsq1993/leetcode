@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f13f525-b8a7-47c6-98a8-ddbb1cf6087d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/stack/baseball.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/stack/maxArea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/stack/maxRectangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/stack/baseball.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/stack/maxArea.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/stack/maxRectangle.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/recursion/findSubString.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/recursion/findSubString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/recursion/findSubString.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/recursion/findSubString.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +53,8 @@
       <workItem from="1602294891472" duration="3198000" />
       <workItem from="1602312018468" duration="9753000" />
       <workItem from="1602382854486" duration="7661000" />
-      <workItem from="1602467483972" duration="1652000" />
+      <workItem from="1602467483972" duration="2459000" />
+      <workItem from="1603075727601" duration="5439000" />
     </task>
     <servers />
   </component>

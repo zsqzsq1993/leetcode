@@ -2,15 +2,27 @@ export default (matrix) => {
     let result = []
 
     const oneCircle = (subMatrix) => {
-        result = result.concat(subMatrix.shift())
+        if (subMatrix.length) result = result.concat(subMatrix.shift())
 
-        for (let row = 0; row < subMatrix.length - 1; row++) result.push(subMatrix[row].pop())
+        for (let row = 0; row < subMatrix.length - 1 && subMatrix[row].length; row++) {
+            result.push(subMatrix[row].pop())
+        }
 
-        if (subMatrix.length) result = result.concat( subMatrix.pop().reverse())
+        if (subMatrix.length) {
+            result = result.concat(subMatrix.pop().reverse())
+        }
 
-        for (let row = subMatrix.length - 1; row > -1; row--) result.push(subMatrix[row].shift())
+        for (let row = subMatrix.length - 1; row > -1 && subMatrix[row].length; row--) {
+            result.push(subMatrix[row].shift())
+        }
 
-        if (subMatrix.length) oneCircle(subMatrix)
+        subMatrix.filter(item => {
+            return item.length
+        })
+
+        if (subMatrix.length) {
+            oneCircle(subMatrix)
+        }
     }
 
     oneCircle(matrix)

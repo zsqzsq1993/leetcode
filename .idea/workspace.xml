@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f13f525-b8a7-47c6-98a8-ddbb1cf6087d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/chain/quickSortByChain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/chain/quickSortByChain.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/chain/circularChain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chain/circularChain.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/queue/taskManager.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/queue/taskManager.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <workItem from="1602467483972" duration="2459000" />
       <workItem from="1603075727601" duration="5668000" />
       <workItem from="1603185990973" duration="2027000" />
-      <workItem from="1603280078570" duration="7030000" />
+      <workItem from="1603280078570" duration="10363000" />
     </task>
     <servers />
   </component>

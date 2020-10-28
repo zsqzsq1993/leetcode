@@ -42,7 +42,6 @@ export default function quickSort (array) {
         let arrow2 = begin.next
 
         while(arrow2 !== end) {
-            console.log(arrow2, end)
             if (arrow2.value < centerValue) {
                 arrow1 = arrow1.next
                 swapValue(arrow1, arrow2)

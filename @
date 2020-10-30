@@ -1,0 +1,12 @@
+searchingTree + heapSort
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   .idea/workspace.xml
+#	new file:   code/heap/heapSort.js
+#	new file:   code/tree/searchingBTree.js
+#	new file:   test/heap/heapSort.test.js
+#	new file:   test/tree/searchingBTree.test.js
+#
